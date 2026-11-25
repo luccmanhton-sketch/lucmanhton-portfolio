@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v2.1 — 25/11/2026 (Cập nhật tài liệu)
+
+### Cải tiến
+
+- Cập nhật báo cáo kiểm thử theo trạng thái giao diện hiện tại.
+- Làm mới ảnh minh chứng desktop và mobile trong thư mục `docs/screenshots`.
+- Bổ sung mục tài liệu kiểm thử, cấu trúc dự án và nhật ký thay đổi vào README.
+
 ## v2.0 — 22/11/2026 (Bản nâng cấp đặc sắc)
 
 ### Cải tiến

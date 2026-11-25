@@ -30,15 +30,20 @@ Website portfolio cá nhân giới thiệu Lục Mạnh Tôn với vai trò Fron
 ```text
 .
 ├── index.html
-└── assets
-    ├── css
-    │   └── styles.css
-    └── img
-        ├── avatar.jpg
-        ├── img1.jpg
-        ├── img2.jpg
-        ├── img3.jpg
-        └── img4.jpg
+├── assets
+│   ├── css
+│   │   └── styles.css
+│   └── img
+│       ├── avatar.jpg
+│       ├── img1.jpg
+│       ├── img2.jpg
+│       ├── img3.jpg
+│       └── img4.jpg
+└── docs
+    ├── screenshots
+    │   ├── 01-desktop.png
+    │   └── 02-mobile.png
+    └── test_report.md
 ```
 
 ## Chạy thử
@@ -50,6 +55,13 @@ python3 -m http.server 8000
 ```
 
 Sau đó truy cập http://localhost:8000
+
+## Tài liệu kiểm thử
+
+- [Báo cáo kiểm thử](docs/test_report.md)
+- [Ảnh desktop](docs/screenshots/01-desktop.png)
+- [Ảnh mobile](docs/screenshots/02-mobile.png)
+- [Nhật ký thay đổi](CHANGELOG.md)
 
 ## Liên hệ
 
